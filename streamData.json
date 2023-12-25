@@ -4,59 +4,55 @@
         streamTitle:"👑 Adinross on kick",
         id: "adinross",
         streamSrc: "https://player.kick.com/adinross",
-        chatSrc:
-          "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=adinross&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
+        chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=adinross&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
       },
       {
         streamTitle:"N3on on kick",
         id: "n3on",
         streamSrc: "https://player.kick.com/n3on",
-        chatSrc:
-          "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=n3on&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
+        chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=n3on&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
       },
       {
         streamTitle:"XQC on kick",
         id: "xqc",
-        streamSrc: "https://player.kick.com/xqc",
-        chatSrc:
-          "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=xqc&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
+        streamSrc:"https://player.kick.com/xqc",
+        chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=xqc&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
       },
       {
         streamTitle:"IShowSpeed on youtube 🔴",
         id: "speed",
-        streamSrc: "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
+        streamSrc:"https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
         chatSrc:"",
       },
       {
         streamTitle:"SNEAKO on rumble",
         id: "sneako",
-        streamSrc: "https://rumble.com/embed/v3znmil/?pub=2hp9je&rel=5&autoplay=2",
+        streamSrc:"https://rumble.com/embed/v3znmil/?pub=2hp9je&rel=5&autoplay=2",
         chatSrc:"",
       },
       {
         streamTitle:"Cheesur on kick",
         id: "cheesur",
-        streamSrc: "https://player.kick.com/cheesur",
+        streamSrc:"https://player.kick.com/cheesur",
         chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=cheesur&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
       },
       {
         streamTitle:"Trainwreckstv on kick",
         id: "trainwreckstv",
-        streamSrc: "https://player.kick.com/trainwreckstv",
+        streamSrc:"https://player.kick.com/trainwreckstv",
         chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=trainwreckstv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30",
       },
       {
         streamTitle:"Xqc on Twitch",
-        id: "xqctv",
-        streamSrc: "https://player.twitch.tv/?channel=xqc&parent=whoslive.netlify.app&muted=true",
+        id:"xqctv",
+        streamSrc:"https://player.twitch.tv/?channel=xqc&parent=whoslive.netlify.app&muted=true",
         chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30",
       },
       {
         streamTitle:"kaicenat on Twitch",
-        id: "kaicenat",
-        streamSrc: "https://player.twitch.tv/?channel=kaicenat&parent=whoslive.netlify.app&muted=true",
-        chatSrc:
-          "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30",
+        id:"kaicenat",
+        streamSrc:"https://player.twitch.tv/?channel=kaicenat&parent=whoslive.netlify.app&muted=true",
+        chatSrc:"https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30",
       },
       {
         streamTitle:"vitaly on kick",
@@ -135,7 +131,7 @@
       {
         streamTitle:"RiceGum on rumble",
         id: "RiceGum",
-        streamSrc: "https://rumble.com/embed/v3zuanb/?pub=2hp9je&rel=5&autoplay=2",
+        streamSrc:"https://rumble.com/embed/v3zuanb/?pub=2hp9je&rel=5&autoplay=2",
         chatSrc:"",
       },
       {
