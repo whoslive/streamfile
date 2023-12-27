@@ -108,16 +108,16 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=nickmercs&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
-    "streamTitle": "yourragegaming on Twitch",
-    "id": "yourragegaming",
-    "streamSrc": "https://player.twitch.tv/?channel=yourragegaming&parent=whoslive.netlify.app&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=yourragegaming&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
-  },
-  {
     "streamTitle": "Tfue on kick",
     "id": "tfue",
     "streamSrc": "https://player.kick.com/Tfue",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=Tfue&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
+  {
+    "streamTitle": "yourrage on kick",
+    "id": "yourrage",
+    "streamSrc": "https://player.kick.com/yourrage",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=yourrage&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
     "streamTitle": "sliker on kick",
