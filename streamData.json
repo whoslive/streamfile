@@ -24,12 +24,6 @@
     "chatSrc": ""
   },
   {
-    "streamTitle": "SNEAKO on rumble",
-    "id": "sneako",
-    "streamSrc": "https://rumble.com/embed/v3znmil/?pub=2hp9je&rel=5&autoplay=2",
-    "chatSrc": ""
-  },
-  {
     "streamTitle": "Cheesur on kick",
     "id": "cheesur",
     "streamSrc": "https://player.kick.com/cheesur",
@@ -46,6 +40,12 @@
     "id": "trainwreckstv",
     "streamSrc": "https://player.kick.com/trainwreckstv",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=trainwreckstv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
+  {
+    "streamTitle": "SNEAKO on rumble",
+    "id": "sneako",
+    "streamSrc": "https://rumble.com/embed/v3znmil/?pub=2hp9je&rel=5&autoplay=2",
+    "chatSrc": ""
   },
   {
     "streamTitle": "Xqc on Twitch",
