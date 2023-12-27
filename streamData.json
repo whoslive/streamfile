@@ -108,6 +108,12 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=nickmercs&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
+    "streamTitle": "yourragegaming on Twitch",
+    "id": "yourragegaming",
+    "streamSrc": "https://player.twitch.tv/?channel=yourragegaming&parent=whoslive.netlify.app&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=yourragegaming&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+  },
+  {
     "streamTitle": "Tfue on kick",
     "id": "tfue",
     "streamSrc": "https://player.kick.com/Tfue",
@@ -156,6 +162,12 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=lospollostv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
+    "streamTitle": "duke on Twitch",
+    "id": "duke",
+    "streamSrc": "https://player.twitch.tv/?channel=duke&parent=whoslive.netlify.app&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=duke&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+  },
+  {
     "streamTitle": "yassuo on kick",
     "id": "yassuo",
     "streamSrc": "https://player.kick.com/yassuo",
@@ -167,5 +179,6 @@
     "streamSrc": "https://player.kick.com/drake",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=drake&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   }
+  
 ]
 
