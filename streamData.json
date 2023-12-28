@@ -171,7 +171,7 @@
     "streamTitle": "yassuo on kick",
     "id": "yassuo",
     "streamSrc": "https://player.kick.com/yassuo",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=yassuo&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=yassuo &font-size=Medium&stroke=Off&animate=true&badges=true&commands=true&bots=false"
   },
   {
     "streamTitle": "drake on kick",
