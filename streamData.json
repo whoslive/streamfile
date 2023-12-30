@@ -24,6 +24,12 @@
     "chatSrc": ""
   },
   {
+    "streamTitle": "SNEAKO on rumble",
+    "id": "sneako",
+    "streamSrc": "https://rumble.com/embed/v41hgs6/?pub=2hp9je",
+    "chatSrc": "https://rumble.com/chat/popup/244359222"
+  },
+  {
     "streamTitle": "konvy on kick",
     "id": "konvy",
     "streamSrc": "https://player.kick.com/konvy",
@@ -40,12 +46,6 @@
     "id": "xqctv",
     "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.netlify.app&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
-  },
-  {
-    "streamTitle": "SNEAKO on rumble",
-    "id": "sneako",
-    "streamSrc": "https://rumble.com/embed/v41hgs6/?pub=2hp9je",
-    "chatSrc": "https://rumble.com/chat/popup/244359222"
   },
   {
     "streamTitle": "vitaly on kick",
