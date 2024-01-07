@@ -17,17 +17,17 @@
     "streamSrc": "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
     "chatSrc": ""
   },
-  {
-    "streamTitle": "SNEAKO on rumble",
-    "id": "sneako",
-    "streamSrc": "https://rumble.com/embed/v42n5ir/?pub=4",
-    "chatSrc": ""
-  },
     {
     "streamTitle": "Trainwreckstv on kick",
     "id": "trainwreckstv",
     "streamSrc": "https://player.kick.com/trainwreckstv",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=trainwreckstv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
+    {
+    "streamTitle": "SNEAKO on rumble",
+    "id": "sneako",
+    "streamSrc": "https://rumble.com/embed/v42n5ir/?pub=4",
+    "chatSrc": ""
   },
   {
     "streamTitle": "kaicenat on Twitch",
