@@ -2,7 +2,7 @@
   {
     "streamTitle": "Adinross on kick",
     "id": "adinross",
-    "streamSrc": "https://player.kick.com/adinross?muted=false",
+    "streamSrc": "https://player.kick.com/adinross?muted=false&autoplay=1",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=adinross&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
