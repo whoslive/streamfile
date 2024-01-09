@@ -72,12 +72,6 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=vitaly&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
-    "streamTitle": "Citrus on kick",
-    "id": "citrus",
-    "streamSrc": "https://player.kick.com/citrus",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=citrus&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
-  },
-  {
     "streamTitle": "Sweatergxd on kick",
     "id": "sweatergxd",
     "streamSrc": "https://player.kick.com/sweatergxd",
@@ -113,17 +107,17 @@
     "streamSrc": "https://player.kick.com/Tfue",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=Tfue&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
+    {
+    "streamTitle": "Citrus on kick",
+    "id": "citrus",
+    "streamSrc": "https://player.kick.com/citrus",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=citrus&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
   {
     "streamTitle": "yourrage on kick",
     "id": "yourrage",
     "streamSrc": "https://player.kick.com/yourrage",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=yourrage&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
-  },
-  {
-    "streamTitle": "hstikkytokky on kick",
-    "id": "hstikkytokky",
-    "streamSrc": "https://player.kick.com/hstikkytokky",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=hstikkytokky&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
     "streamTitle": "sliker on kick",
@@ -162,12 +156,6 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=lospollostv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
-    "streamTitle": "izanal on kick",
-    "id": "izanal",
-    "streamSrc": "https://player.kick.com/izanal",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=izanal&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
-  },
-  {
     "streamTitle": "duke on Twitch",
     "id": "duke",
     "streamSrc": "https://player.twitch.tv/?channel=duke&parent=whoslive.netlify.app&muted=true",
@@ -184,6 +172,12 @@
     "id": "jakefuture27",
     "streamSrc": "https://player.kick.com/jakefuture27",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=jakefuture27&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
+    {
+    "streamTitle": "hstikkytokky on kick",
+    "id": "hstikkytokky",
+    "streamSrc": "https://player.kick.com/hstikkytokky",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=hstikkytokky&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
     "streamTitle": "drake on kick",
