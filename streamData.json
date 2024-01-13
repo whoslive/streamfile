@@ -26,7 +26,7 @@
   {
     "streamTitle": "kaicenat on Twitch",
     "id": "kaicenat",
-    "streamSrc": "https://player.twitch.tv/?channel=kaicenat&parent=whoslive.netlify.app&muted=true",
+    "streamSrc": "https://player.twitch.tv/?channel=kaicenat&parent=whoslive.net/&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
@@ -50,7 +50,7 @@
   {
     "streamTitle": "Xqc on Twitch",
     "id": "xqctv",
-    "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.netlify.app&muted=true",
+    "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
   },
   {
@@ -134,7 +134,7 @@
   {
     "streamTitle": "loltyler1 on Twitch",
     "id": "loltyler1",
-    "streamSrc": "https://player.twitch.tv/?channel=loltyler1&parent=whoslive.netlify.app&muted=true",
+    "streamSrc": "https://player.twitch.tv/?channel=loltyler1&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=loltyler1&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
   },
   {
