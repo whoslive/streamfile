@@ -179,6 +179,12 @@
     "streamSrc": "https://rumble.com/embed/v44fmql/?pub=2hp9je",
     "chatSrc": "https://rumble.com/chat/popup/249312477"
    },
+  {
+    "streamTitle": "stableronaldo on Twitch",
+    "id": "stableronaldo",
+    "streamSrc": "https://player.twitch.tv/?channel=stableronaldo&parent=whoslive.net&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=stableronaldo&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
+  },
     {
     "streamTitle": "hstikkytokky on kick",
     "id": "hstikkytokky",
