@@ -3,7 +3,7 @@
     "streamTitle": "Adinross on kick",
     "id": "adinross",
     "streamSrc": "https://player.kick.com/adinross",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=adinross&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=adinross&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "XQC on kick",
@@ -27,13 +27,13 @@
     "streamTitle": "konvy on kick",
     "id": "konvy",
     "streamSrc": "https://player.kick.com/konvy",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=konvy&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=konvy&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "N3on on kick",
     "id": "n3on",
     "streamSrc": "https://player.kick.com/n3on",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=n3on&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=N3on&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Xqc on Twitch",
@@ -51,55 +51,55 @@
     "streamTitle": "Cheesur on kick",
     "id": "cheesur",
     "streamSrc": "https://player.kick.com/cheesur",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=cheesur&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=cheesur&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
    {
     "streamTitle": "fousey on kick",
     "id": "fousey",
     "streamSrc": "https://player.kick.com/fousey",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=fousey&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=fousey&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Trainwreckstv on kick",
     "id": "trainwreckstv",
     "streamSrc": "https://player.kick.com/trainwreckstv",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=trainwreckstv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=trainwreckstv&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "vitaly on kick",
     "id": "vitaly",
     "streamSrc": "https://player.kick.com/vitaly",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=vitaly&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Sweatergxd on kick",
     "id": "sweatergxd",
     "streamSrc": "https://player.kick.com/sweatergxd",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=sweatergxd&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sweatergxd&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "sam on kick",
     "id": "sam",
     "streamSrc": "https://player.kick.com/sam",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=sam&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sam&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "stevewilldoit on kick",
     "id": "stevewilldoit",
     "streamSrc": "https://player.kick.com/stevewilldoit",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=stevewilldoit&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=stevewilldoit&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Citrus on kick",
     "id": "citrus",
     "streamSrc": "https://player.kick.com/citrus",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=citrus&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=citrus&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "sliker on kick",
     "id": "sliker",
     "streamSrc": "https://player.kick.com/sliker",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=sliker&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sliker&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "loltyler1 on Twitch",
@@ -111,49 +111,49 @@
     "streamTitle": "cuffem on kick",
     "id": "cuffem",
     "streamSrc": "https://player.kick.com/cuffem",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=cuffem&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=cuffem&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "shnaggyhose on kick",
     "id": "shnaggyhose",
     "streamSrc": "https://player.kick.com/shnaggyhose",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=shnaggyhose&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=shnaggyhose&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Tfue on kick",
     "id": "tfue",
     "streamSrc": "https://player.kick.com/Tfue",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=Tfue&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=Tfue&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "yourrage on kick",
     "id": "yourrage",
     "streamSrc": "https://player.kick.com/yourrage",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=yourrage&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=yourrage&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
     {
     "streamTitle": "nickmercs on kick",
     "id": "nickmercs",
     "streamSrc": "https://player.kick.com/nickmercs",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=nickmercs&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=nickmercs&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "odablock on kick",
     "id": "odablock",
     "streamSrc": "https://player.kick.com/odablock",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=odablock&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=odablock&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "lospollostv on kick",
     "id": "lospollostv",
     "streamSrc": "https://player.kick.com/lospollostv",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=lospollostv&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=N3on&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "yassuo on kick",
     "id": "yassuo",
     "streamSrc": "https://player.kick.com/yassuo",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=yassuo&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=yassuo&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "jynxzi on Twitch",
@@ -165,13 +165,13 @@
     "streamTitle": "jakefuture27 on kick",
     "id": "jakefuture27",
     "streamSrc": "https://player.kick.com/jakefuture27",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=jakefuture27&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=jakefuture27&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "izanal on kick",
     "id": "izanal",
     "streamSrc": "https://player.kick.com/izanal",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=izanal&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=izanal&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "RiceGum on rumble",
@@ -189,19 +189,19 @@
     "streamTitle": "pamk on kick",
     "id": "pamk",
     "streamSrc": "https://player.kick.com/pamk",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=pamk&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=pamk&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
     {
     "streamTitle": "hstikkytokky on kick",
     "id": "hstikkytokky",
     "streamSrc": "https://player.kick.com/hstikkytokky",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=hstikkytokky&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=hstikkytokky&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "drake on kick",
     "id": "drake",
     "streamSrc": "https://player.kick.com/drake",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=drake&twitch=&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=drake&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   }
   
 ]
