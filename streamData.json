@@ -24,6 +24,12 @@
     "chatSrc": ""
   },
   {
+    "streamTitle": "vitaly on kick",
+    "id": "vitaly",
+    "streamSrc": "https://player.kick.com/vitaly",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+  {
     "streamTitle": "konvy on kick",
     "id": "konvy",
     "streamSrc": "https://player.kick.com/konvy",
@@ -64,12 +70,6 @@
     "id": "trainwreckstv",
     "streamSrc": "https://player.kick.com/trainwreckstv",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=trainwreckstv&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "vitaly on kick",
-    "id": "vitaly",
-    "streamSrc": "https://player.kick.com/vitaly",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Sweatergxd on kick",
