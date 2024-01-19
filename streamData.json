@@ -38,7 +38,7 @@
   {
     "streamTitle": "Trainwreckstv on kick",
     "id": "trainwreckstv",
-    "streamSrc": "https://player.multikick.tv/trainwreckstv&muted=true",
+    "streamSrc": "https://player.kick.com/trainwreckstv",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=trainwreckstv&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
