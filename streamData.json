@@ -12,28 +12,34 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=xqc&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
-    "streamTitle": "IShowSpeed on youtube 🔴",
-    "id": "speed",
-    "streamSrc": "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
-    "chatSrc": ""
-  },
-  {
-    "streamTitle": "SNEAKO on rumble",
-    "id": "sneako",
-    "streamSrc": "https://rumble.com/embed/v44ouvo/?pub=2hp9je",
-    "chatSrc": ""
-  },
-  {
     "streamTitle": "vitaly on kick",
     "id": "vitaly",
     "streamSrc": "https://player.kick.com/vitaly",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
+    "streamTitle": "SNEAKO on rumble",
+    "id": "sneako",
+    "streamSrc": "https://rumble.com/embed/v458dz9/?pub=2hp9je",
+    "chatSrc": ""
+  },
+  {
     "streamTitle": "konvy on kick",
     "id": "konvy",
     "streamSrc": "https://player.kick.com/konvy",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=konvy&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+  {
+    "streamTitle": "IShowSpeed on youtube ",
+    "id": "speed",
+    "streamSrc": "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
+    "chatSrc": ""
+  },
+  {
+    "streamTitle": "Trainwreckstv on kick",
+    "id": "trainwreckstv",
+    "streamSrc": "https://player.kick.com/trainwreckstv",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=trainwreckstv&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "N3on on kick",
@@ -64,12 +70,6 @@
     "id": "fousey",
     "streamSrc": "https://player.kick.com/fousey",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=fousey&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "Trainwreckstv on kick",
-    "id": "trainwreckstv",
-    "streamSrc": "https://player.kick.com/trainwreckstv",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=trainwreckstv&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Sweatergxd on kick",
@@ -176,8 +176,8 @@
   {
     "streamTitle": "RiceGum on rumble",
     "id": "RiceGum",
-    "streamSrc": "https://rumble.com/embed/v44mw2o/?pub=2hp9je",
-    "chatSrc": ""
+    "streamSrc": "https://rumble.com/embed/v459l63/?pub=2hp9je",
+    "chatSrc": "https://rumble.com/chat/popup/250710123"
    },
   {
     "streamTitle": "stableronaldo on Twitch",
