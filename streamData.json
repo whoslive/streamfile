@@ -196,12 +196,6 @@
     "id": "hstikkytokky",
     "streamSrc": "https://player.kick.com/hstikkytokky",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=hstikkytokky&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "drake on kick",
-    "id": "drake",
-    "streamSrc": "https://player.kick.com/drake",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=drake&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   }
   
 ]
