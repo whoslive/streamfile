@@ -12,12 +12,6 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=xqc&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
-    "streamTitle": "vitaly on kick",
-    "id": "vitaly",
-    "streamSrc": "https://player.kick.com/vitaly",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
     "streamTitle": "SNEAKO on rumble",
     "id": "sneako",
     "streamSrc": "https://rumble.com/embed/v45fji5/?pub=2hp9je",
@@ -28,6 +22,12 @@
     "id": "speed",
     "streamSrc": "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
     "chatSrc": "https://www.youtube.com/live_chat?is_popout=1&v=gF71Smacr58&embed_domain=whoslive.net"
+  },
+  {
+    "streamTitle": "vitaly on kick",
+    "id": "vitaly",
+    "streamSrc": "https://player.kick.com/vitaly",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
  {
     "streamTitle": "kaicenat on Twitch",
