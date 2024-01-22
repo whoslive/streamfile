@@ -24,16 +24,16 @@
     "chatSrc": "https://www.youtube.com/live_chat?is_popout=1&v=gF71Smacr58&embed_domain=whoslive.net"
   },
   {
-    "streamTitle": "vitaly on kick",
-    "id": "vitaly",
-    "streamSrc": "https://player.kick.com/vitaly",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
- {
     "streamTitle": "kaicenat on Twitch",
     "id": "kaicenat",
     "streamSrc": "https://player.twitch.tv/?channel=kaicenat&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
+  {
+    "streamTitle": "vitaly on kick",
+    "id": "vitaly",
+    "streamSrc": "https://player.kick.com/vitaly",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=vitaly&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "Trainwreckstv on kick",
