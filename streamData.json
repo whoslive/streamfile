@@ -191,6 +191,12 @@
     "streamSrc": "https://player.kick.com/pamk",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=pamk&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
+  {
+    "streamTitle": "demisux on kick",
+    "id": "demisux",
+    "streamSrc": "https://player.kick.com/demisux",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=demisux&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
     {
     "streamTitle": "hstikkytokky on kick",
     "id": "hstikkytokky",
