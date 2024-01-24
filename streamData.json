@@ -1,10 +1,17 @@
 [
+  
   {
     "streamTitle": "Adinross on kick",
     "id": "adinross",
     "streamSrc": "https://player.kick.com/adinross",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=adinross&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
+   {
+    "streamTitle": "Xqc on Twitch",
+    "id": "xqctv",
+    "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.net&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+   },
   {
     "streamTitle": "XQC on kick",
     "id": "xqc",
@@ -30,6 +37,12 @@
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
   },
   {
+    "streamTitle": "loltyler1 on Twitch",
+    "id": "loltyler1",
+    "streamSrc": "https://player.twitch.tv/?channel=loltyler1&parent=whoslive.net&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=loltyler1&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
+  },
+  {
     "streamTitle": "vitaly on kick",
     "id": "vitaly",
     "streamSrc": "https://player.kick.com/vitaly",
@@ -53,12 +66,6 @@
     "streamSrc": "https://player.kick.com/konvy",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=konvy&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
-  {
-    "streamTitle": "Xqc on Twitch",
-    "id": "xqctv",
-    "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
-   },
   {
     "streamTitle": "Cheesur on kick",
     "id": "cheesur",
@@ -100,12 +107,6 @@
     "id": "sliker",
     "streamSrc": "https://player.kick.com/sliker",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sliker&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "loltyler1 on Twitch",
-    "id": "loltyler1",
-    "streamSrc": "https://player.twitch.tv/?channel=loltyler1&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=loltyler1&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
   },
   {
     "streamTitle": "cuffem on kick",
