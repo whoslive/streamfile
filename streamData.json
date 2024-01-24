@@ -85,12 +85,6 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sweatergxd&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
-    "streamTitle": "sam on kick",
-    "id": "sam",
-    "streamSrc": "https://player.kick.com/sam",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sam&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
     "streamTitle": "stevewilldoit on kick",
     "id": "stevewilldoit",
     "streamSrc": "https://player.kick.com/stevewilldoit",
