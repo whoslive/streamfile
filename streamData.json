@@ -28,7 +28,7 @@
     "streamTitle": "SNEAKO on rumble",
     "id": "sneako",
     "streamSrc": "https://rumble.com/embed/v46k7hi/?pub=2hp9je",
-    "chatSrc": "https://rumble.com/chat/popup/252885222"
+    "chatSrc": ""
   },
   {
     "streamTitle": "kaicenat on Twitch",
@@ -42,6 +42,18 @@
     "streamSrc": "https://player.twitch.tv/?channel=loltyler1&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=loltyler1&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
   },
+  {
+    "streamTitle": "jynxzi on Twitch",
+    "id": "jynxzi",
+    "streamSrc": "https://player.twitch.tv/?channel=jynxzi&parent=whoslive.net&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=jynxzi&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+   },
+    {
+    "streamTitle": "RiceGum on rumble",
+    "id": "RiceGum",
+    "streamSrc": "https://rumble.com/embed/v46idti/?pub=2hp9je",
+    "chatSrc": "https://rumble.com/chat/popup/252800118"
+   },
   {
     "streamTitle": "vitaly on kick",
     "id": "vitaly",
@@ -151,12 +163,6 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=yassuo&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
-    "streamTitle": "jynxzi on Twitch",
-    "id": "jynxzi",
-    "streamSrc": "https://player.twitch.tv/?channel=jynxzi&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=jynxzi&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
-   },
-  {
     "streamTitle": "jakefuture27 on kick",
     "id": "jakefuture27",
     "streamSrc": "https://player.kick.com/jakefuture27",
@@ -168,12 +174,6 @@
     "streamSrc": "https://player.kick.com/izanal",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=izanal&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
-  {
-    "streamTitle": "RiceGum on rumble",
-    "id": "RiceGum",
-    "streamSrc": "https://rumble.com/embed/v46idti/?pub=2hp9je",
-    "chatSrc": "https://rumble.com/chat/popup/252800118"
-   },
   {
     "streamTitle": "stableronaldo on Twitch",
     "id": "stableronaldo",
