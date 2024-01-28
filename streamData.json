@@ -186,6 +186,12 @@
     "streamSrc": "https://player.twitch.tv/?channel=stableronaldo&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=stableronaldo&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
   },
+    {
+    "streamTitle": "knut on Twitch",
+    "id": "knut",
+    "streamSrc": "https://player.twitch.tv/?channel=knut&parent=whoslive.net&muted=true",
+    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=knut&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+  },
   {
     "streamTitle": "demisux on kick",
     "id": "demisux",
