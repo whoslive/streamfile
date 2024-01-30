@@ -168,17 +168,23 @@
     "streamSrc": "https://player.kick.com/pamk",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=pamk&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
-  {
-    "streamTitle": "jakefuture27 on kick",
-    "id": "jakefuture27",
-    "streamSrc": "https://player.kick.com/jakefuture27",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=jakefuture27&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+    {
+    "streamTitle": "justxsnagz on kick",
+    "id": "justxsnagz",
+    "streamSrc": "https://player.kick.com/justxsnagz",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=justxsnagz&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "izanal on kick",
     "id": "izanal",
     "streamSrc": "https://player.kick.com/izanal",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=izanal&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+    {
+    "streamTitle": "jakefuture27 on kick",
+    "id": "jakefuture27",
+    "streamSrc": "https://player.kick.com/jakefuture27",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=jakefuture27&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "stableronaldo on Twitch",
