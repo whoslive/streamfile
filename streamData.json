@@ -138,18 +138,6 @@
     "streamSrc": "https://player.kick.com/yourrage",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=yourrage&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
-    {
-    "streamTitle": "nickmercs on kick",
-    "id": "nickmercs",
-    "streamSrc": "https://player.kick.com/nickmercs",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=nickmercs&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "odablock on kick",
-    "id": "odablock",
-    "streamSrc": "https://player.kick.com/odablock",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=odablock&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
   {
     "streamTitle": "lospollostv on kick",
     "id": "lospollostv",
@@ -203,13 +191,12 @@
     "id": "demisux",
     "streamSrc": "https://player.kick.com/demisux",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=demisux&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-    {
-    "streamTitle": "hstikkytokky on kick",
-    "id": "hstikkytokky",
-    "streamSrc": "https://player.kick.com/hstikkytokky",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=hstikkytokky&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   }
-  
+    {
+    "streamTitle": "nickmercs on kick",
+    "id": "nickmercs",
+    "streamSrc": "https://player.kick.com/nickmercs",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=nickmercs&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
 ]
 
