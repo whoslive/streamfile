@@ -192,11 +192,11 @@
     "streamSrc": "https://player.kick.com/demisux",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=demisux&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   }
-    {
+  {
     "streamTitle": "nickmercs on kick",
     "id": "nickmercs",
     "streamSrc": "https://player.kick.com/nickmercs",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=nickmercs&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
+  }
 ]
 
