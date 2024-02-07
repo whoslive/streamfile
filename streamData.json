@@ -103,6 +103,12 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=stevewilldoit&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
+    "streamTitle": "nelkboys on kick",
+    "id": "nelkboys",
+    "streamSrc": "https://player.kick.com/nelkboys",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=nelkboys&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+  {
     "streamTitle": "Citrus on kick",
     "id": "citrus",
     "streamSrc": "https://player.kick.com/citrus",
