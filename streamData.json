@@ -27,14 +27,8 @@
   {
     "streamTitle": "SNEAKO on rumble",
     "id": "sneako",
-    "streamSrc": "https://rumble.com/embed/v4b1g5l/?pub=2hp9je",
-    "chatSrc": "https://rumble.com/chat/popup/260408073"
-  },
-  {
-    "streamTitle": "kaicenat on Twitch",
-    "id": "kaicenat",
-    "streamSrc": "https://player.twitch.tv/?channel=kaicenat&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=kaicenat&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
+    "streamSrc": "https://rumble.com/embed/v4innf0/?pub=4",
+    "chatSrc": ""
   },
   {
     "streamTitle": "loltyler1 on Twitch",
@@ -47,12 +41,6 @@
     "id": "jynxzi",
     "streamSrc": "https://player.twitch.tv/?channel=jynxzi&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=jynxzi&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
-   },
-    {
-    "streamTitle": "RiceGum on rumble",
-    "id": "RiceGum",
-    "streamSrc": "https://rumble.com/embed/v47khfu/?pub=2hp9je",
-    "chatSrc": ""
    },
   {
     "streamTitle": "vitaly on kick",
@@ -89,12 +77,6 @@
     "id": "fousey",
     "streamSrc": "https://player.kick.com/fousey",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=fousey&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-  {
-    "streamTitle": "Sweatergxd on kick",
-    "id": "sweatergxd",
-    "streamSrc": "https://player.kick.com/sweatergxd",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sweatergxd&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "stevewilldoit on kick",
@@ -174,12 +156,6 @@
     "streamSrc": "https://player.kick.com/izanal",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=izanal&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
-    {
-    "streamTitle": "jakefuture27 on kick",
-    "id": "jakefuture27",
-    "streamSrc": "https://player.kick.com/jakefuture27",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=jakefuture27&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
   {
     "streamTitle": "stableronaldo on Twitch",
     "id": "stableronaldo",
@@ -191,12 +167,6 @@
     "id": "knut",
     "streamSrc": "https://player.twitch.tv/?channel=knut&parent=whoslive.net&muted=true",
     "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=knut&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
-  },
-  {
-    "streamTitle": "demisux on kick",
-    "id": "demisux",
-    "streamSrc": "https://player.kick.com/demisux",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=demisux&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "nickmercs on kick",
