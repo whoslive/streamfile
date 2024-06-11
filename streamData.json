@@ -9,7 +9,7 @@
     "streamTitle": "Xqc on Twitch",
     "id": "xqctv",
     "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=xqc&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+     "chatSrc": "https://www.twitch.tv/embed/xqc/chat?darkpopout&parent=whoslive.net"
    },
   {
     "streamTitle": "XQC on kick",
@@ -33,7 +33,7 @@
     "streamTitle": "jynxzi on Twitch",
     "id": "jynxzi",
     "streamSrc": "https://player.twitch.tv/?channel=jynxzi&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=jynxzi&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&highlight=on&fade=on&fadeTime=30"
+    "chatSrc": "https://www.twitch.tv/embed/jynxzi/chat?darkpopout&parent=whoslive.net"
    },
   {
     "streamTitle": "vitaly on kick",
@@ -153,14 +153,14 @@
     "streamTitle": "stableronaldo on Twitch",
     "id": "stableronaldo",
     "streamSrc": "https://player.twitch.tv/?channel=stableronaldo&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=stableronaldo&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&platformBadges=on&userBadges=on&bots=on&highlight=on&fade=on&fadeTime=30"
+    "chatSrc": "https://www.twitch.tv/embed/stableronaldo/chat?darkpopout&parent=whoslive.net"
   },
     {
     "streamTitle": "knut on Twitch",
     "id": "knut",
     "streamSrc": "https://player.twitch.tv/?channel=knut&parent=whoslive.net&muted=true",
-    "chatSrc": "https://kicktools.ayybabz.com/fusion_chat/fusion-chat.html?kick=&twitch=knut&youtube=&font=Inter&fontSize=medium&fontShadow=shadow-na&fontColor=%23ffffff&theme=custom&fontCase=none&timestamp=off&platformBadges=on&userBadges=on&bots=on&highlight=on&fadeTime=30"
-  },
+    "chatSrc": "https://www.twitch.tv/embed/knut/chat?darkpopout&parent=whoslive.net"
+    },
   {
     "streamTitle": "nickmercs on kick",
     "id": "nickmercs",
