@@ -5,6 +5,12 @@
     "streamSrc": "https://player.kick.com/adinross",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=adinross&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
+  {
+    "streamTitle": "Sneako on kick",
+    "id": "sneako",
+    "streamSrc": "https://player.kick.com/sneako",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sneako&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
    {
     "streamTitle": "Xqc on Twitch",
     "id": "xqctv",
