@@ -12,18 +12,6 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=sneako&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
    {
-    "streamTitle": "Xqc on Twitch",
-    "id": "xqctv",
-    "streamSrc": "https://player.twitch.tv/?channel=xqc&parent=whoslive.net&muted=true",
-     "chatSrc": "https://www.twitch.tv/embed/xqc/chat?darkpopout&parent=whoslive.net"
-   },
-  {
-    "streamTitle": "XQC on kick",
-    "id": "xqc",
-    "streamSrc": "https://player.kick.com/xqc",
-    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=xqc&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
-  },
-    {
     "streamTitle": "IShowSpeed on youtube ",
     "id": "speed",
     "streamSrc": "https://www.youtube.com/embed?listType=playlist&list=UUWsDFcIhY2DBi3GB5uykGXA",
