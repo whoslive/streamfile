@@ -48,6 +48,12 @@
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=n3on&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
+    "streamTitle": "bdave on kick",
+    "id": "bdave",
+    "streamSrc": "https://player.kick.com/bdave",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=bdave&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+  {
     "streamTitle": "konvy on kick",
     "id": "konvy",
     "streamSrc": "https://player.kick.com/konvy",
@@ -64,6 +70,12 @@
     "id": "fousey",
     "streamSrc": "https://player.kick.com/fousey",
     "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=fousey&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
+  },
+  {
+    "streamTitle": "edmatthews on kick",
+    "id": "edmatthews",
+    "streamSrc": "https://player.kick.com/edmatthews",
+    "chatSrc": "https://kick-chat.corard.tv/v1/chat?user=edmatthews&font-size=Small&stroke=Off&animate=true&badges=true&commands=true&bots=true"
   },
   {
     "streamTitle": "stevewilldoit on kick",
